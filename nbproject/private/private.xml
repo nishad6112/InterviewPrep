@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/nisha/Documents/NetBeansProjects/TechBlog/src/java/com/tech/blog/dao/PostDao.java</file>
+            <file>file:/C:/Users/nisha/Documents/NetBeansProjects/TechBlog/src/java/com/tech/blog/entities/Post.java</file>
+            <file>file:/C:/Users/nisha/Documents/NetBeansProjects/TechBlog/src/java/com/tech/blog/helper/Helper.java</file>
+            <file>file:/C:/Users/nisha/Documents/NetBeansProjects/TechBlog/src/java/com/tech/blog/entities/User.java</file>
+            <file>file:/C:/Users/nisha/Documents/NetBeansProjects/TechBlog/src/java/com/tech/blog/servlets/AddPostServlet.java</file>
+            <file>file:/C:/Users/nisha/Documents/NetBeansProjects/TechBlog/web/load_user_posts.jsp</file>
+            <file>file:/C:/Users/nisha/Documents/NetBeansProjects/TechBlog/web/show_blog_page.jsp</file>
+            <file>file:/C:/Users/nisha/Documents/NetBeansProjects/TechBlog/web/my_posts.jsp</file>
+            <file>file:/C:/Users/nisha/Documents/NetBeansProjects/TechBlog/web/load_posts.jsp</file>
+            <file>file:/C:/Users/nisha/Documents/NetBeansProjects/TechBlog/web/normal_navbar.jsp</file>
+            <file>file:/C:/Users/nisha/Documents/NetBeansProjects/TechBlog/web/profile.jsp</file>
+            <file>file:/C:/Users/nisha/Documents/NetBeansProjects/TechBlog/web/show_user_blog_page.jsp</file>
+            <file>file:/C:/Users/nisha/Documents/NetBeansProjects/TechBlog/web/css/mystyle.css</file>
+        </group>
+    </open-files>
+</project-private>
