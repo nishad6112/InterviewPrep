@@ -1,2 +1,2 @@
 # InterviewPrep
-InterviewPrep is a platform that provides various resources for Interview preparation like Top interview Questions ,Interview Experience, RoadMaps etc for students aiming to become Software Engineer. The website requires users to register and login in order to access its features and Share Experiences.
+InterviewPrep is a website aimed at providing comprehensive resources and tools to enhance interview skills.The platform features a range of interview experiences, technical and behavioral question samples, and interview tips, all designed to prepare users for real-world job interviews.
