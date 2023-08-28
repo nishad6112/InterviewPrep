@@ -35,12 +35,16 @@ InterviewPrep is a website aimed at providing comprehensive resources and tools 
 
 **1.Landing Page**
 
+
 ![image](https://github.com/nishad6112/InterviewPrep/assets/91268115/c21f4344-5386-448d-b61c-cfe68f7bc475)
 
 **2.Home Page**
+
+
 ![image](https://github.com/nishad6112/InterviewPrep/assets/91268115/32dfd634-3798-4441-ae79-2bec4607277d)
 
 **3.Top Interview Questions**
+
 
 ![image](https://github.com/nishad6112/InterviewPrep/assets/91268115/e319c3b3-2789-4168-b614-e5d3ee58a7c1)
 
@@ -55,21 +59,13 @@ InterviewPrep is a website aimed at providing comprehensive resources and tools 
 
 
 **6.Experience Details**
+
+
 ![image](https://github.com/nishad6112/InterviewPrep/assets/91268115/0ec4fdd5-5bc2-4257-a876-57332f6c3adb)
 
-
-
-
-
-
-
-
-![image](https://github.com/nishad6112/InterviewPrep/assets/91268115/ad8d4302-1628-4a6b-8aab-8e55c24b4b04)
-
-
-![image](https://github.com/nishad6112/InterviewPrep/assets/91268115/bd704bc8-5957-4c81-8ac7-c6610fd57cde)
-
 **Contact Page**
+
+
 ![image](https://github.com/nishad6112/InterviewPrep/assets/91268115/99df2f18-8b79-4950-a233-7a56141a6b51)
 
 
